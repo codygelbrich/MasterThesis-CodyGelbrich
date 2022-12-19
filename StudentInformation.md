@@ -1,7 +1,7 @@
 # MasterThesis-CodyGelbrich
 
 
-• Name: Cody Gelbrich 
+• Name: Cody Alexander Hal Gelbrich 
 • Matrikelnummer:409954
 • Abschluss und Studiengang: Industrial Economics Master
 • Name und E-Mailadresse Erstprüfende*r: Christian von Hirschhausen: cvh@wip.tu-berlin.de
